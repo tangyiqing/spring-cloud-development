@@ -9,6 +9,7 @@
     <modules>
         <module>spring-cloud-helloworld</module>
         <module>spring-cloud-eureka</module>
+        <module>spring-cloud-helloworld-consumer</module>
     </modules>
     <packaging>pom</packaging>
 
